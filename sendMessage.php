@@ -36,7 +36,7 @@ try {
 
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'vytas.kertas@gmail.com';                 // SMTP username
-    $mail->Password = 'irmantas';                          // SMTP username
+    $mail->Password = '';                         // SMTP username
 
 
 
